@@ -1,0 +1,48 @@
+header {
+    color: red;
+}
+a {
+    color:violet
+}
+.text_1 {
+    color: purple;
+}
+span {
+    color: turquoise;
+}
+.text_2 {
+    color:yellow
+}
+.text_3 {
+    color: yellowgreen;
+}
+#block {
+    color: sienna;
+}
+h2 {
+    color:orangered
+}
+h3 {
+    color: orangered;
+}
+menu ul {
+    color: royalblue;
+}
+.text_4 p {
+    color: teal;
+}
+.sport {
+    color: thistle;
+}
+li {
+    color: blue;
+}
+.pley_sport p {
+    color:chartreuse;
+}
+p {
+    color: darkmagenta;
+}
+footer {
+    color: coral;
+}
